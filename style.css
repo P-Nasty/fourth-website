@@ -1,1 +1,33 @@
+body{
+background-color: lightblue;
+}
 
+h2{
+	font-size:200%
+}
+#A1{
+font-size: 100%;
+color: red;
+margin: 0px;
+display: none;
+}
+#A2{
+font-size: 100%;
+color: red;
+margin: 0px;
+display: none;
+}
+#A3{
+font-size: 100%;
+color: red;
+margin: 0px;
+display: none;
+}
+
+img{
+padding: 25px;
+border: 25px solid red;
+margin; 50px;
+display: none;
+width: 20%;
+}
